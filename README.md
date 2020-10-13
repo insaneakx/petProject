@@ -13,3 +13,9 @@ cordova build android
 
 # Emulate the app
 cordova emulate android
+
+# List Installed plugins
+cordova plugin ls
+
+# Update Cordova
+npm update -g cordova
